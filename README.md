@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**enam-biocode-25/enam-biocode-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a biomedical researcher with a background in health science, food science and nutrition, gut microbiome research, probiotics, and microbiome data analysis. My work combines molecular biology laboratory experiments with bioinformatics and computational analysis.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Experienced in molecular biology and microbiome-related laboratory research
+* Skilled in 16S rRNA sequencing analysis, advanced microbial genomics, and metagenomics workflows
+* Proficient in QIIME2, DADA2, R, Python, SPSS, and Linux-based workflows
+* Hands-on experience in probiotic characterization through in vitro assays and in vivo mouse experiments
+* Familiar with ELISA, western blotting, PCR, and RT-PCR
+
+## Research 
+
+* Microbiology
+* Molecular biology
+* Bioinformatics
+* Metagenomics
+* Genomics
+* Computational biology
+* Interdisciplinary biological and health-related research
+
+## Current Goal
+
+I am expanding my expertise in machine learning and computational biology as I prepare for a PhD focused on sustainable biological solutions and innovation.
+
+
