@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋, I am Enam Ahmed
 
 I am a bioinformatics research enthusiast with a background in health science, food science and nutrition, gut microbiome research, probiotics, and microbiome data analysis. My work combines molecular biology laboratory experiments with bioinformatics and computational analysis.
 
