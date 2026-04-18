@@ -1,22 +1,24 @@
 # Hi there 👋
 
-I am a biomedical researcher with a background in health science, food science and nutrition, gut microbiome research, probiotics, and microbiome data analysis. My work combines molecular biology laboratory experiments with bioinformatics and computational analysis.
+I am a bioinformatics research enthusiast with a background in health science, food science and nutrition, gut microbiome research, probiotics, and microbiome data analysis. My work combines molecular biology laboratory experiments with bioinformatics and computational analysis.
 
 ## About Me
 
-* Experienced in molecular biology and microbiome-related laboratory research
-* Skilled in 16S rRNA sequencing analysis, advanced microbial genomics, and metagenomics workflows
-* Proficient in QIIME2, DADA2, R, Python, SPSS, and Linux-based workflows
-* Hands-on experience in probiotic characterization through in vitro assays and in vivo mouse experiments
-* Familiar with ELISA, western blotting, PCR, and RT-PCR
+* Experienced in molecular biology-related laboratory research experiments, including DNA and RNA extraction, PCR, RT-PCR, ELISA, Gel electrophoresis, Western blotting, and others
+* Experienced in microbiology laboratory-related research experiments, including bacteria culturing, streaking with spreading on agar plates, safety with sterility, gram staining, antimicrobial susceptibility, antibiotic resistance, and others.
+* Experienced in metagenomics, including 16S rRNA sequencing analysis through QIIME2 and DADA2 pipeline.
+* Experienced in comparative microbial genomics analysis.
+* Experienced in R, Python, SPSS, and Linux-based workflows.
+* Hands-on experiences in vivo mouse handling
 
 ## Research 
 
-* Microbiology
 * Molecular biology
+* Microbiology
+* Health and nutrition
+* Metabolic diseases
 * Bioinformatics
 * Metagenomics
-* Genomics
 * Computational biology
 * Interdisciplinary biological and health-related research
 
